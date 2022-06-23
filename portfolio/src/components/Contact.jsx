@@ -6,7 +6,11 @@ const Contact = () => {
       name="contact"
       className="w-full h-screen bg-[#0a192f] flex justify-center items-center p-4"
     >
-      <form className="flex flex-col max-w-[600px] w-full">
+      <form
+        action="https://formsubmit.co/fdc66e726c121d0502c1a7df399016f2"
+        method="POST"
+        className="flex flex-col max-w-[600px] w-full"
+      >
         <div className="pb-8">
           <p className="text-4xl font-bold text-gray-300">Contact</p>
           <p className="text-gray-300 py-4">
@@ -35,6 +39,11 @@ const Contact = () => {
         <button className="text-white border-2 hover:bg-slate-500  hover:text-white px-4 py-3 my-8 mx-auto flex items-center">
           Let's Collaborate
         </button>
+        <input
+          type="hidden"
+          name="_next"
+          value="https://markmanongsong.github.io"
+        />
       </form>
     </div>
   );
