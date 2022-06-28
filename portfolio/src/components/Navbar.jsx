@@ -97,6 +97,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://www.linkedin.com/in/mark-joseph-manongsong-0ab86a238/"
+              target="_blank"
             >
               LinkedIn
               <FaLinkedin size={30} />
@@ -106,6 +107,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://github.com/markmanongsong"
+              target="_blank"
             >
               Github
               <FaGithub size={30} />
@@ -126,6 +128,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://drive.google.com/file/d/1CYjZjcfH2O4oCSFa5-yE_40899ODX8E8/view?usp=sharing"
+              target="_blank"
             >
               Resume
               <BsFillPersonLinesFill size={30} />
