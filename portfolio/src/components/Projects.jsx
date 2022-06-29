@@ -32,12 +32,18 @@ const Work = () => {
                 Html,Css,Javascript Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a
+                  href="https://markmanongsong.github.io/reverse_snake_game/index.html?fbclid=IwAR3LJx40J371VYcGF6VlnVK-4EQ5wXMFruS2-9xVX2QVI3JO9rztailP35k"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a
+                  href="https://github.com/markmanongsong/reverse_snake_game"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -63,7 +69,10 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/markmanongsong/001-water-counter">
+                <a
+                  href="https://github.com/markmanongsong/001-water-counter"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -87,7 +96,10 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/markmanongsong/002-weather-app">
+                <a
+                  href="https://github.com/markmanongsong/002-weather-app"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
