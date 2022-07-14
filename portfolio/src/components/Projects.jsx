@@ -29,7 +29,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Html,Css,Javascript Application
+                Snake reverse
+                <br></br>
+                Classic snake game but in reverse Html,Css,Javascript
+                Application
               </span>
               <div className="pt-8 text-center">
                 <a
@@ -58,7 +61,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                Water Counter
+                <br />
+                Water will increase every time you press the add React JS
+                Application
               </span>
               <div className="pt-8 text-center">
                 <a
@@ -88,6 +94,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
+                Weather App
+                <br />
+                Check the weather
+                <br />
                 React JS Application
               </span>
               <div className="pt-8 text-center">
@@ -114,6 +124,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
+                Todo List
+                <br />
+                You can create todo list
+                <br />
                 React JS and Node JS , Express JS Application
               </span>
               <div className="pt-8 text-center">
@@ -144,6 +158,10 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
+                Ecommerce website
+                <br />
+                basic ecommerce site
+                <br />
                 React JS and Tailwind css Application
               </span>
               <div className="pt-8 text-center">
@@ -173,15 +191,24 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
+                Chapp
+                <br />
+                Short for chat app
+                <br />
+                basic chat app
+                <br />
                 React JS Firebase Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://chapp-sigma.vercel.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a
+                  href="https://github.com/mango-gills/final-project_group-2"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>

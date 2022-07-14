@@ -14,7 +14,7 @@ const Home = () => {
         </h2>
         <p className="text-[#0a192f] py-4 max-w-[700px]">
           I'm Mark Joseph Manongsong aiming to be a full stack web developer.
-          Currently, I’m focused on building responsive full-stack web
+          Currently, I’m focus on building responsive full-stack web
           applications.
         </p>
         <div>

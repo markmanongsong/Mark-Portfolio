@@ -19,12 +19,12 @@ const About = () => {
           </div>
           <div>
             <p>
-              I am a call center agent before who want to learn to program. I
-              resign in my previous job to take a short course in uplift code
-              camp and in a span of 6 months I learned about the fundamentals of
-              web development and learn many technology. And through out the
-              course I fell inlove in coding. And excited to use all the
-              learnings and experiece for my future job
+              I was a customer service representative who wants to learn
+              programming. I resigned in my previous job to take a short course
+              in uplift code camp. And in a span of 6 months, I learned about
+              the fundamentals of web development and any other technologies.
+              And through out the course, I fell in love with coding and now I'm
+              excited to use all the learning and experience for my future job.
             </p>
           </div>
         </div>
